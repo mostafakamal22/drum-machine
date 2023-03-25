@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h2>Project Screenshots:</h2>
+
+<img src="https://mostafakamal22.github.io/img/projects/drum-machine.webp" alt="project-screenshot" width="375" height="700">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
